@@ -1,0 +1,3 @@
+C:/Users/edjis/OneDrive/Documents/visualStudio-workspace/crudCpp/out/build/x64-debug/CMakeFiles/crudCpp.dir
+C:/Users/edjis/OneDrive/Documents/visualStudio-workspace/crudCpp/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/edjis/OneDrive/Documents/visualStudio-workspace/crudCpp/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
